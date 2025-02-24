@@ -12,7 +12,6 @@ I'm **Dilini Silva**, an enthusiastic undergraduate student passionate about **t
 ## 🌟 What I'm Up To  
 🔭 Working on **exciting projects & open-source contributions**  
 
-## 📫 Connect with Me  
 ## 🌍 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilinisilva713)  
